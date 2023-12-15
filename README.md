@@ -1,4 +1,4 @@
-# Animation Sequencer
+# Animation Sequencer (Magic Tween)
 
 <p align="center">
     <a href="https://github.com/brunomikoski/Animation-Sequencer/blob/master/LICENSE.md">
